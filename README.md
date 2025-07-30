@@ -1,8 +1,12 @@
 # SoC_2025_SuperMario_RL
 Hello, this is My SOC Project GitHub Repository
+
 Name - Arnav Pandit
+
 Roll no. - 24B3948
+
 Project id - 75
+
 Project Name - Super Mario! Quest Using RL
 
 Here is how to navigate through this repository:
